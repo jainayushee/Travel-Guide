@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/book"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="0dp"
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/typo_round_bold_demo"
+            android:text="Book Online"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/online"
+            android:layout_marginLeft="300dp"
+            android:layout_marginTop="8dp"/>
+
+
+
+
+
+
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/contact"
+        app:cardCornerRadius="20dp"
+        android:layout_below="@+id/book"
+        app:cardElevation="0dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/typo_round_bold_demo"
+            android:text="Contact"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/call"
+            android:layout_marginLeft="310dp"
+            android:layout_marginTop="8dp"/>
+
+
+
+
+
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/directions"
+        android:layout_below="@+id/contact"
+        app:cardCornerRadius="20dp"
+        android:layout_marginBottom="10dp"
+        app:cardElevation="0dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/typo_round_bold_demo"
+            android:text="Directions"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/maps"
+            android:layout_marginLeft="310dp"
+            android:layout_marginTop="8dp"/>
+
+
+
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

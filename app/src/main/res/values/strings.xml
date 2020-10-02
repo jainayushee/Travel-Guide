@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">two</string>
+
+    <string name="intro">Plan the journey  of a lifetime!</string>
+    <string name="desc">Collection of the most beautiful places and adventures to help you plan an unforgettable experience!</string>
+
+
+
+    <string-array name="titles">
+
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+
+
+    </string-array>
+
+    <string-array name="descriptions">
+
+        <item> The Aga Khan Palace was built by Sultan Muhammed Shah Aga Khan III in Pune, India. The palace was an act of charity by the spiritual leader of the Nizari Ismaili Muslims, who wanted to help the poor in the neighbouring areas of Pune, who were drastically hit by famine.[1]
+
+The Aga Khan Palace is a majestic building.[2] The palace is closely linked to the Indian freedom movement as it served as a prison for Mahatma Gandhi, his wife Kasturba Gandhi, his secretary Mahadev Desai and Sarojini Naidu. It is also the place where Kasturba Gandhi and Mahadev Desai died </item>
+        <item>Shaniwarwada (ISO: Śanivāravāḍā) is a historical fortification in the city of Pune in Maharashtra, India. Built in 1732, it was the seat of the Peshwas of the Maratha Empire until 1818, when the Peshwas lost control to the British East India Company after the Third Anglo-Maratha War. Following the rise of the Maratha Empire, the palace became the center of Indian politics in the 18th century.</item>
+        <item>Pune-Okayama Friendship Garden or Pu La Deshpande Udyan is one of the largest gardens in Pune located on Sinhagad Road in Pune, Maharashtra, India.</item>
+        <item>Sinhagad is a hill fortress located at around 35 km southwest of the city of Pune, India. Some of the information available at this fort suggests that the fort could have been built 2000 years ago. The caves and the carvings in the Kaundinyeshwar temple stand as proofs for the same.</item>
+        <item>Parvati Hill is a hillock in Pune, India. The hillock rises to 2,100 feet above sea level. Atop the hillock is the Parvati Temple, one of the most scenic locations in Pune. The temple is the oldest heritage structure in Pune and was built during the rule of the Peshwa dynasty. For visitors, Parvati hill is also an observation point that offers a panoramic view of Pune. It is the second highest point in Pune. The hill has 103 steps leading to the top of the hill where the temple is situated.The hill was owned by the Patil named Taware. Peshwa purchased the hill from th</item>
+        <item>Pashan Lake is an artificial lake near the suburb of Pashan, about 12 km from the city center of Pune, India. The lake was built in the British era to accommodate the water requirement of the neighbourhood. The main inlet of the lake is a small river, which is even controlled by the barrage located to the north of the lake. The river originates from Bavdhan and flows via Pashan, Sutarwadi, Baner to Someshwarwadi before flowing into the main Mula river. Pashan lake has a total catchment area of 40 square kilometres, and serves as a source of water to the old Pashan village, and the Governors residence, as well. Recent urbanisation around the lake has led to the fall in the quality of the water.</item>
+    </string-array>
+
+
+    <string-array name="adventure_descriptions">
+
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+
+
+
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="Main">
+        <item> Places </item>
+        <item> Adventures </item>
+        <item> Local Delicacies </item>
+        <item> Live Events </item>
+        <item> Nightlife </item>
+    </string-array>
+    <string name="title_activity_places">Places</string>
+
+
+
+</resources>
